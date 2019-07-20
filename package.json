@@ -1,8 +1,6 @@
 {
   "name": "mithril-app",
   "version": "1.0.0",
-  "description": "Mithril skeleton application with JSX",
-  "main": "index.js",
   "author": "João Paulo Vicentini Wanderley",
   "license": "MIT",
   "scripts": {
