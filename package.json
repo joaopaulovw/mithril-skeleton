@@ -8,7 +8,7 @@
     "serve": "mithril-scripts serve"
   },
   "dependencies": {
-    "mithril": "^1.1.6",
+    "mithril": "^1.1.7",
     "mithril-scripts": "https://github.com/joaopaulovw/mithril-scripts.git"
   }
 }
